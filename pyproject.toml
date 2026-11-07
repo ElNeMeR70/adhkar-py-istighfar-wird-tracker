@@ -1,0 +1,7 @@
+[project]
+name = "adhkar-py-istighfar-wird-tracker"
+version = "1.0.0"
+description = "Daily Wird, Sayyid Al-Istighfar & Salawat Streak Analytics Engine (متتبع الأوراد اليومية والاستغفار والصلاة على النبي)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
